@@ -18,5 +18,5 @@ jobs:
         with:
           args: >
               -Dsonar.organization=naveenkumar2412
-              -Dsonar.projectKey=SonarQube-Integration
+              -Dsonar.projectKey=Sonarcloudn
               -Dsonar.python.coverage.reportPaths=coverage.xml
